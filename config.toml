@@ -1,3 +1,8 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "kanta's spike"
+
+theme = "beautifulhugo"
+
+[Params]
+ subtitle = "プログラミングの学習記録"
