@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kanta&#39;s spike</title>
+    <link>https://kantas-spike.github.io/hugo-demo/</link>
+    <description>Recent content on kanta&#39;s spike</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jul 2022 11:59:18 +0900</lastBuildDate><atom:link href="https://kantas-spike.github.io/hugo-demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>はじめての記事</title>
+      <link>https://kantas-spike.github.io/hugo-demo/post/my-first-article/</link>
+      <pubDate>Mon, 18 Jul 2022 11:59:18 +0900</pubDate>
+      
+      <guid>https://kantas-spike.github.io/hugo-demo/post/my-first-article/</guid>
+      <description>&lt;p&gt;&lt;code&gt;Hugo&lt;/code&gt;を使って書いたはじめての記事です。&lt;/p&gt;
+&lt;p&gt;今後、プログラミングの学習記録を書いていきたいと思います。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

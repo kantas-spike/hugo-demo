@@ -1,8 +1,10 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://kantas-spike.github.io/hugo-demo/'
 languageCode = 'en-us'
 title = "kanta's spike"
 
 theme = "beautifulhugo"
+
+publishDir = "docs"
 
 [Params]
  subtitle = "プログラミングの学習記録"
